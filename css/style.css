@@ -1,0 +1,60 @@
+/* colors 
+https://coolors.co/586ba4-5cc8ff-ec4e20-190b28-0c0f0a
+-----*/
+
+/* Global styles
+-----------------------------------------*/
+body{
+    color: #0C0F0A;
+    background-color: #0C0F0A;
+}
+.image {
+    width: 300px 
+}
+
+a {
+    color:#0C0F0A
+}
+a:hover {
+    text-decoration: none;
+    color: #0C0F0A;
+}
+
+
+/* profile
+-----------------------------------------*/
+header {
+    background-color: #586BA4;
+    padding: 10px;
+}
+
+/* project
+-----------------------------------------*/
+
+
+/* Work experience
+-----------------------------------------*/
+.work {
+    background-color: #5cc8ff;
+    padding: 10px;
+    border: 10px solid #EC4E20;
+    
+}
+
+
+/* Education
+-----------------------------------------*/
+
+.education {
+    background-color: #5cc8ff;
+    padding: 10px 10px;
+    border: 10px solid #EC4E20;
+
+}
+
+/* contact
+-----------------------------------------*/
+footer {
+    background-color: #586BA4;
+    padding: 10px 10px;
+}
